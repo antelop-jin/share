@@ -6,3 +6,5 @@ ssh-keygen -t rsa
 cat ~/.ssh/id_rsa.pub
 
 哈哈
+
+可以
